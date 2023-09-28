@@ -7,5 +7,5 @@ Git hello,world!
 Git hello,world!
 Git hello,world!
 Git hello,world!
-Git hello,world!
+Git hello,world! hot-fix test
 Git hello,world!
