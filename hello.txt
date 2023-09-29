@@ -12,3 +12,4 @@ Git hello,world! hot-fix test
 66666666666666666666666666666
 222222222222222222 by lhc
 新增免密登录  by lcz
+新增免密登录  by ssh-git_push
